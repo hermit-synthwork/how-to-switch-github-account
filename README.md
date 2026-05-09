@@ -29,3 +29,8 @@ Check the authentication status for configured GitHub CLI hosts and accounts:
 ```bash
 gh auth status
 ```
+## Get Telegram chat_id directly on Chrome
+
+```
+https://api.telegram.org/bot<YOUR_BOT_TOKEN>/getUpdates
+```
